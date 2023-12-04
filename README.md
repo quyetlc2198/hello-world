@@ -1,3 +1,5 @@
 # hello-world
+
 Learning basic GITHUB
+HUONG DAN SU DUNG GITHUB TREN VISUAL STUDIO CODE
 by DQ
